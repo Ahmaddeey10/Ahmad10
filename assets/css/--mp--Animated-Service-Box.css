@@ -1,0 +1,16 @@
+.serviceBox .service-icon i {
+  z-index: 1;
+  position: relative;
+}
+
+.fit-cover {
+}
+
+@media (min-width: 1200px) {
+  .fit-cover {
+  }
+}
+
+img {
+}
+
